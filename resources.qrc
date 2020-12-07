@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/Edge.txt</file>
+        <file>source/Location.txt</file>
+        <file>source/Locorg.txt</file>
+        <file>source/map.bmp</file>
+        <file>source/Organization.txt</file>
+    </qresource>
+</RCC>
